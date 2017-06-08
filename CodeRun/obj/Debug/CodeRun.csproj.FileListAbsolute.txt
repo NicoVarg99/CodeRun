@@ -1,2 +1,10 @@
 C:\Users\nicol\Documents\CodeRun\CodeRun\CodeRun\bin\Debug\CodeRun.exe.config
 C:\Users\nicol\Documents\CodeRun\CodeRun\bin\Debug\CodeRun.exe.config
+C:\Users\nicol\Documents\CodeRun\CodeRun\bin\Debug\CodeRun.exe
+C:\Users\nicol\Documents\CodeRun\CodeRun\bin\Debug\CodeRun.pdb
+C:\Users\nicol\Documents\CodeRun\CodeRun\obj\Debug\CodeRun.csprojResolveAssemblyReference.cache
+C:\Users\nicol\Documents\CodeRun\CodeRun\obj\Debug\CodeRun.Form1.resources
+C:\Users\nicol\Documents\CodeRun\CodeRun\obj\Debug\CodeRun.Properties.Resources.resources
+C:\Users\nicol\Documents\CodeRun\CodeRun\obj\Debug\CodeRun.csproj.GenerateResource.Cache
+C:\Users\nicol\Documents\CodeRun\CodeRun\obj\Debug\CodeRun.exe
+C:\Users\nicol\Documents\CodeRun\CodeRun\obj\Debug\CodeRun.pdb
